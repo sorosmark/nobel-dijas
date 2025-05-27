@@ -1,0 +1,52 @@
+body {
+    font-family: serif;
+}
+
+.tartalom {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #CCC;
+    color: black;
+    padding: 20px;
+}
+
+.forras {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #757575;
+    color: white;
+    padding: 20px;
+}
+
+.adatok {
+    width: 130px;
+    margin-left: 15px;
+    border-left: 1px solid black;
+    padding-left: 15px;
+    float: right;
+}
+
+.adatok img {
+    border: 1px solid white;
+}
+
+.elso {
+    font-size: 80%;
+    text-align: left;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+} 
